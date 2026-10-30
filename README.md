@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://waynez01.github.io/"><img alt="Personal site" src="https://img.shields.io/badge/PERSONAL_SITE-101B3C?style=for-the-badge&logo=safari&logoColor=white"></a>
+  <a href="https://www.dyw2.xyz/"><img alt="Personal site" src="https://img.shields.io/badge/PERSONAL_SITE-101B3C?style=for-the-badge&logo=safari&logoColor=white"></a>
+  <a href="https://waynez01.github.io/"><img alt="Digital garden" src="https://img.shields.io/badge/DIGITAL_GARDEN-B7FF45?style=for-the-badge&logo=githubpages&logoColor=101B3C"></a>
   <a href="https://github.com/WayneZ01/Android_open_project"><img alt="Android open project" src="https://img.shields.io/badge/ANDROID_INDEX-F64C40?style=for-the-badge&logo=android&logoColor=white"></a>
   <a href="https://blog.csdn.net/zhanwei0102"><img alt="CSDN" src="https://img.shields.io/badge/CSDN-FFD43D?style=for-the-badge&logo=c&logoColor=101B3C"></a>
 </p>
@@ -16,6 +17,7 @@ I'm a mobile engineer and long-term open-source curator based in Beijing. I buil
 
 - 🔭 Currently improving developer workflows and open-source discovery.
 - 🧭 GitHub member since 2016.
+- 🏠 My primary website is [dyw2.xyz](https://www.dyw2.xyz/).
 - 🌱 Building a bilingual digital garden at [waynez01.github.io](https://waynez01.github.io/).
 - 💬 Interested in mobile engineering, AI-native products, developer tools and product experience.
 
@@ -49,7 +51,8 @@ I'm a mobile engineer and long-term open-source curator based in Beijing. I buil
 
 ## Find me
 
-- [Personal site](https://waynez01.github.io/)
+- [Personal website — dyw2.xyz](https://www.dyw2.xyz/)
+- [Digital garden — waynez01.github.io](https://waynez01.github.io/)
 - [GitHub repositories](https://github.com/WayneZ01?tab=repositories)
 - [CSDN writing](https://blog.csdn.net/zhanwei0102)
 - [GitHub Gists](https://gist.github.com/WayneZ01)
