@@ -44,7 +44,7 @@ I'm a mobile engineer and long-term open-source curator based in Beijing. I buil
 <p>
   <a href="https://github.com/WayneZ01?tab=followers"><img alt="GitHub followers" src="https://img.shields.io/github/followers/WayneZ01?style=flat-square&label=Followers&color=F64C40"></a>
   <a href="https://github.com/WayneZ01?tab=repositories&sort=stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/WayneZ01?affiliations=OWNER&style=flat-square&label=Stars&color=FFD43D"></a>
-  <img alt="Public repositories" src="https://img.shields.io/badge/Public_repositories-260-101B3C?style=flat-square">
+  <img alt="Public repositories" src="https://img.shields.io/badge/Public_repositories-261-101B3C?style=flat-square">
 </p>
 
 ## Find me
